@@ -4,7 +4,12 @@ Hi 👋 My name is Stavros Antoniadis
 Just like coding and technology
 -------------------------------
 
-class stavros\_anton7: def \_\_init\_\_(self): self.name = "Stavros Antoniadis" self.learning = \['Python, 'HTML/CSS'\] self.tools = \['Windows", "Visual Studio / Code"\] self.hobbies = \['Cooking', 'Movies', 'Video Games','Music'\] self.facts = 'I Love Movies. Favorite franchises: Marvel, Harry Potter, The Hunger Games'
+class stavros\_anton7: 
+    def \_\_init\_\_(self): self.name = "Stavros Antoniadis" 
+        self.learning = \['Python, 'HTML/CSS'\] 
+        self.tools = \['Windows", "Visual Studio / Code"\] 
+        self.hobbies = \['Cooking', 'Movies', 'Video Games','Music'\] 
+        self.facts = 'I Love Movies. Favorite franchises: Marvel, Harry Potter, The Hunger Games'
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [antonsta2007@gmail.com](mailto:antonsta2007@gmail.com)
