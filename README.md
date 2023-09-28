@@ -8,13 +8,14 @@ Just like coding and technology
 * ✉️  You can contact me at [antonsta2007@gmail.com](mailto:antonsta2007@gmail.com)
 * 🧠  I'm learning Python, HTML/CSS
 * 🤝  I'm open to collaborating on J.A.R.V.I.S.
-  
+```py  
  class stavros\_anton7: 
     def \_\_init\_\_(self): self.name = "Stavros Antoniadis" 
         self.learning = \['Python, 'HTML/CSS'\] 
         self.tools = \['Windows", "Visual Studio / Code"\] 
         self.hobbies = \['Cooking', 'Movies', 'Video Games','Music'\] 
         self.facts = 'I Love Movies. Favorite franchises: Marvel, Harry Potter, The Hunger Games'
+  ```
 
 
 ### Skills
